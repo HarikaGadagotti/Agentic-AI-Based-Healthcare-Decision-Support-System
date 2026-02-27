@@ -1,0 +1,5 @@
+HIGH risk patients require immediate ICU admission. Initiate sepsis protocol and administer broad spectrum antibiotics within 1 hour. Continuous cardiac monitoring required.
+
+MEDIUM risk patients should be admitted to step-down unit. Monitor vitals every 30 minutes and prepare escalation plan.
+
+LOW risk patients can be treated in general ward. Standard monitoring every 4 hours is sufficient.

@@ -1,0 +1,5 @@
+{
+  "HIGH": "Immediate ICU admission recommended. Allocate ICU bed with continuous cardiac, oxygen, and BP monitoring. Assign senior nursing staff (1:1 ratio).",
+  "MEDIUM": "Admit to step-down unit. Monitor vitals every 30 minutes. Keep escalation resources on standby.",
+  "LOW": "General ward care. Vitals every 4 hours. No immediate escalation required."
+}

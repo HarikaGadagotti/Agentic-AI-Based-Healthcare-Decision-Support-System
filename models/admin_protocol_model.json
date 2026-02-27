@@ -1,0 +1,5 @@
+{
+  "HIGH": "Initiate sepsis protocol immediately. Administer broad-spectrum antibiotics within 1 hour. Continuous ICU monitoring required.",
+  "MEDIUM": "Increase monitoring frequency. Reassess vitals within 60 minutes. Prepare escalation plan if deterioration occurs.",
+  "LOW": "Routine ward care. Standard vital monitoring every 4 hours. No immediate intervention required."
+}
